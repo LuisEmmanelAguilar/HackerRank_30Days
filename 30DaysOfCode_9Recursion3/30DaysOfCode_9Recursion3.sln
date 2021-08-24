@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30DaysOfCode_9Recursion3", "30DaysOfCode_9Recursion3\30DaysOfCode_9Recursion3.csproj", "{E0C9953F-4F6D-4188-BFBD-A294C0F5BAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0C9953F-4F6D-4188-BFBD-A294C0F5BAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C9953F-4F6D-4188-BFBD-A294C0F5BAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C9953F-4F6D-4188-BFBD-A294C0F5BAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C9953F-4F6D-4188-BFBD-A294C0F5BAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7B48F73-C563-4B9A-8B40-7E51E94D7585}
+	EndGlobalSection
+EndGlobal

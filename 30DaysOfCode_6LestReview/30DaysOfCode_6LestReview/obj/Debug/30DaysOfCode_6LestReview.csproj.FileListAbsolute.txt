@@ -1,0 +1,6 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_6LestReview\30DaysOfCode_6LestReview\bin\Debug\30DaysOfCode_6LestReview.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_6LestReview\30DaysOfCode_6LestReview\bin\Debug\30DaysOfCode_6LestReview.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_6LestReview\30DaysOfCode_6LestReview\bin\Debug\30DaysOfCode_6LestReview.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_6LestReview\30DaysOfCode_6LestReview\obj\Debug\30DaysOfCode_6LestReview.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_6LestReview\30DaysOfCode_6LestReview\obj\Debug\30DaysOfCode_6LestReview.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_6LestReview\30DaysOfCode_6LestReview\obj\Debug\30DaysOfCode_6LestReview.pdb

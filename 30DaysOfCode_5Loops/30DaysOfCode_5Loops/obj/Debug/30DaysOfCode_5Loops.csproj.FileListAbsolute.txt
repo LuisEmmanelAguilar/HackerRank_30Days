@@ -1,0 +1,6 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_5Loops\30DaysOfCode_5Loops\bin\Debug\30DaysOfCode_5Loops.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_5Loops\30DaysOfCode_5Loops\bin\Debug\30DaysOfCode_5Loops.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_5Loops\30DaysOfCode_5Loops\bin\Debug\30DaysOfCode_5Loops.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_5Loops\30DaysOfCode_5Loops\obj\Debug\30DaysOfCode_5Loops.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_5Loops\30DaysOfCode_5Loops\obj\Debug\30DaysOfCode_5Loops.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_5Loops\30DaysOfCode_5Loops\obj\Debug\30DaysOfCode_5Loops.pdb

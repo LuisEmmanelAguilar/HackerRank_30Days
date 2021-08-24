@@ -1,0 +1,7 @@
+C:\Users\luise\source\repos\30DaysOfCode_15LinkedList\30DaysOfCode_15LinkedList\bin\Debug\30DaysOfCode_15LinkedList.exe.config
+C:\Users\luise\source\repos\30DaysOfCode_15LinkedList\30DaysOfCode_15LinkedList\bin\Debug\30DaysOfCode_15LinkedList.exe
+C:\Users\luise\source\repos\30DaysOfCode_15LinkedList\30DaysOfCode_15LinkedList\bin\Debug\30DaysOfCode_15LinkedList.pdb
+C:\Users\luise\source\repos\30DaysOfCode_15LinkedList\30DaysOfCode_15LinkedList\obj\Debug\30DaysOfCode_15LinkedList.csprojAssemblyReference.cache
+C:\Users\luise\source\repos\30DaysOfCode_15LinkedList\30DaysOfCode_15LinkedList\obj\Debug\30DaysOfCode_15LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\luise\source\repos\30DaysOfCode_15LinkedList\30DaysOfCode_15LinkedList\obj\Debug\30DaysOfCode_15LinkedList.exe
+C:\Users\luise\source\repos\30DaysOfCode_15LinkedList\30DaysOfCode_15LinkedList\obj\Debug\30DaysOfCode_15LinkedList.pdb

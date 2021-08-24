@@ -1,0 +1,7 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_9Recursion3\30DaysOfCode_9Recursion3\bin\Debug\30DaysOfCode_9Recursion3.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_9Recursion3\30DaysOfCode_9Recursion3\bin\Debug\30DaysOfCode_9Recursion3.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_9Recursion3\30DaysOfCode_9Recursion3\bin\Debug\30DaysOfCode_9Recursion3.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_9Recursion3\30DaysOfCode_9Recursion3\obj\Debug\30DaysOfCode_9Recursion3.csprojAssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_9Recursion3\30DaysOfCode_9Recursion3\obj\Debug\30DaysOfCode_9Recursion3.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_9Recursion3\30DaysOfCode_9Recursion3\obj\Debug\30DaysOfCode_9Recursion3.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_9Recursion3\30DaysOfCode_9Recursion3\obj\Debug\30DaysOfCode_9Recursion3.pdb

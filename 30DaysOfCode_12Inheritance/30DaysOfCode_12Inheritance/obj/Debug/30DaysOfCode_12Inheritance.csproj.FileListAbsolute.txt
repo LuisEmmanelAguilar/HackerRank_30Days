@@ -1,0 +1,7 @@
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_12Inheritance\30DaysOfCode_12Inheritance\bin\Debug\30DaysOfCode_12Inheritance.exe.config
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_12Inheritance\30DaysOfCode_12Inheritance\bin\Debug\30DaysOfCode_12Inheritance.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_12Inheritance\30DaysOfCode_12Inheritance\bin\Debug\30DaysOfCode_12Inheritance.pdb
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_12Inheritance\30DaysOfCode_12Inheritance\obj\Debug\30DaysOfCode_12Inheritance.csprojAssemblyReference.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_12Inheritance\30DaysOfCode_12Inheritance\obj\Debug\30DaysOfCode_12Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_12Inheritance\30DaysOfCode_12Inheritance\obj\Debug\30DaysOfCode_12Inheritance.exe
+C:\Users\luise\Documents\MAFALDO\Programacion\HackerRank\_30DaysOfCode\30DaysOfCode_12Inheritance\30DaysOfCode_12Inheritance\obj\Debug\30DaysOfCode_12Inheritance.pdb
